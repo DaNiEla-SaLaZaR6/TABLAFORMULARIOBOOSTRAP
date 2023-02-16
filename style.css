@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://www.shutterstock.com/image-illustration/dark-azure-blue-light-cyanide-260nw-1220441023.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container{
+    border: solid 2px blue;
+    margin-top: 70px;
+
+}
+
+.bottom{
+    width: 5cm;
+    gap: 10px;
+}
